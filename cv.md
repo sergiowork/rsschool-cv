@@ -19,3 +19,6 @@
 
 6. Freelance projects (PSD to HTML, create themes to WordPress)
 
+7. University and self online education
+
+8. English - Intermediate level
