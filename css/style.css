@@ -1,0 +1,42 @@
+ul {
+	list-style-type: square;color: #f07849;
+}
+
+.center-block {
+	max-width : 1024px;
+	margin : 0 auto;
+	font-family : 'Droid Sans', sans-serif;
+	line-height: 180%;
+}
+.center-block__img {
+	width: auto; 
+	height: 400px;
+}
+
+.center-block__contact {
+	list-style: none;
+	padding: 0;
+}
+.center-block__contact li {
+	width: 300px;
+	padding: 10px 30px;
+    background: linear-gradient(to left, #f8ab8d 0%, white, #f8ab8d);
+	border-bottom: 1px solid grey;
+	color: #506a6b;
+	box-shadow: 0 5px 5px 0 rgba(0,0,0, .2);
+	margin-bottom: 5px;
+}
+.center-block__contact li:last-child {
+	border-bottom: none;
+}
+
+.center-block__name {
+	font-size: 40px;
+}
+
+.center-block__link {
+	text-decoration: none;
+}
+.center-block__link:hover {
+	text-decoration: underline;
+}
